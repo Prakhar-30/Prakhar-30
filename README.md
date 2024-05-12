@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakhar-30&show_icons=true&theme=transparent" alt="prakhar-30" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Prakhar-30&](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Prakhar-30&theme=transparent&border_radius=50&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak)" alt="Prakhar-30" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Prakhar-30&theme=transparent&border_radius=4.5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" alt="Prakhar-30" /></p>
