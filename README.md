@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Srivastava</h1>
 <h3 align="center">A passionate fullstack developer and Web3 enthusiast from India</h3>
 
-<p align="left" style="margin-top: 20 px;"> <img src="https://komarev.com/ghpvc/?username=prakhar-30&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-30" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=prakhar-30&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-30" /> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp" style="margin-right: 40 px;margin-left: 0 px">
